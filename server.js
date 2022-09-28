@@ -84,7 +84,7 @@ if (MODE == 'CLUSTER' && cluster.isPrimary) {
         app.use('*', warnLogger, routingError); //Gestiono rutas no parametrizadas
 
         //Pongo a escuchar al server
-        const server = app.listen(PORT, err => {
+        const server = httpServer.listen(PORT, err => {
             if (!err) {
                 logger.info(`Server running at PORT: ${server.address().port} (PID:${process.pid})`)
             }
