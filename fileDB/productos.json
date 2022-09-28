@@ -1,0 +1,12 @@
+[
+  {
+    "id": "2",
+    "timeStamp": 1661391584710,
+    "nombre": "CD Kung Fu",
+    "descripcion": "Octavo álbum de la banda",
+    "codigo": "C003",
+    "thumbnail": "https://www.pezdebuenosaires.com.ar/imagenes/tapas_de_discos/kungfu_grande.jpg",
+    "precio": 1205,
+    "stock": 7
+  }
+]

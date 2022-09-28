@@ -1,0 +1,34 @@
+[
+  {
+    "id": "1",
+    "timeStamp": 1664238459368,
+    "userEmail": "charo@gmail.com",
+    "activo": false,
+    "productos": [
+      {
+        "id": "2",
+        "timeStamp": 1661391584710,
+        "nombre": "CD Kung Fu",
+        "descripcion": "Octavo álbum de la banda",
+        "codigo": "C003",
+        "thumbnail": "https://www.pezdebuenosaires.com.ar/imagenes/tapas_de_discos/kungfu_grande.jpg",
+        "precio": 1205,
+        "stock": 3
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "timeStamp": 1664239407554,
+    "userEmail": "charo@gmail.com",
+    "activo": true,
+    "productos": []
+  },
+  {
+    "id": "3",
+    "timeStamp": 1664259795874,
+    "userEmail": "eze@gmail.com",
+    "activo": true,
+    "productos": []
+  }
+]

@@ -1,0 +1,2 @@
+{"level":"error","message":"Error en el hilo principal: TypeError [ERR_INVALID_ARG_VALUE]: The argument 'options' must have the property \"port\" or \"path\". Received Server {\n  maxHeaderSize: undefined,\n  insecureHTTPParser: undefined,\n  _events: [Object: null prototype] {\n    request: [Functi..."}
+{"level":"error","message":"Pasaron cosas al guardar nuevo objeto en la colección mensajesProyecto..."}

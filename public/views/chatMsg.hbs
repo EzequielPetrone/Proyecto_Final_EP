@@ -1,0 +1,25 @@
+{{#each msgs}}
+  <li>
+    {{!-- <img src={{this.avatar}} width="40" class="py-1 rounded-circle" /> --}}
+    <span>
+      <strong style="color: blue;">
+        {{this.email}}
+      </strong>
+      &nbsp
+      <span style="color: brown;">
+        [
+        {{this.timeStamp}}
+        ]
+      </span>
+      &nbsp
+      <span style="color: black;">
+        {{this.name}}
+        :
+      </span>
+      &nbsp
+      <em style="color: green;">
+        {{this.textoMensaje}}
+      </em>
+    </span>
+  </li>
+{{/each}}
